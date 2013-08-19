@@ -1,0 +1,52 @@
+.appellation {
+    font-size: 140%;
+    font-weight: bold;
+}
+.questions{
+    font-size: 110%;
+    font-weight: inherit;
+}
+.red-letter {
+    color: RED;
+    font-size:160%;
+}
+body {
+    font-family: Segoe UI Light, Segoe UI, Tahoma, Arial, Verdana, sans-serif;
+    font-size: 150%;
+    background: BLANCHEDALMOND;
+    width: 650px;
+    margin: 0 auto;
+}
+.personal_info {
+    font-family: Verdana, MONOSPACE;
+    margin: 0 auto;
+}
+input {
+    width:20px;
+}
+.hat {
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.block_about {
+    font-family: Tahoma, Arial, Verdana;
+    font-size: 120%;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-left: 5px;
+}
+
+.info_form {
+    width: 500px;
+}
+
+.buttons {
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+
+.agree {
+    margin-top: 10px;
+    margin-left: 160px;
+}
